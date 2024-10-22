@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=HamClock
+Exec=/bin/sh -c 'sleep 5; /usr/local/bin/hamclock'
+Icon=/home/pi/.hamclock/hamclock.png
+Terminal=false
+Type=Application
+Categories=HamRadio
